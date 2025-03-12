@@ -1,5 +1,8 @@
 ## Hola! Soy Pablo Roig 👋🏼​
-Soy un apasionado de la informática​ ⌨️​🖥️​
+Soy un apasionado de la informática​ desde siempre, pero actualmente trabajo como Jefe de equipo realizando montajes industriales. 
+Sigo formándome 👨🏼‍🎓​ en el ámbito de la informática y pronto seré Desarrollador de Apps Multiplataforma!
+
+
 <!--
 **roigpablo/roigpablo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
