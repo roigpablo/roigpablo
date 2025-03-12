@@ -1,5 +1,5 @@
-## Holaa! Soy Pablo Roig 👋🏼​
-
+## Hola! Soy Pablo Roig 👋🏼​
+Soy un apasionado de la informática​ ⌨️​🖥️​
 <!--
 **roigpablo/roigpablo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
